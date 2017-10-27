@@ -1,0 +1,12 @@
+Dear <person's name>,
+Thanks for placing your chocolate order with the 
+<adjective> <noun> Chocolate Company.  
+Unfortunately, your <flavor you can taste> flavored chocolates 
+are unavailable right now because <adjective> <things> 
+accidentally fell in our chocolate vat.  
+We're sorry for any inconvenience this caused.  
+Since you were ordering these for a party to celebrate 
+<holiday>, we would like to offer you <thing>-shaped truffles 
+at a discount of <number> dollars instead.
+Sincerely,
+John "<verb>" Spooner

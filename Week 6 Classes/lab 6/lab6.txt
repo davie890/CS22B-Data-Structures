@@ -1,0 +1,7 @@
+CIS 22A
+8
+Pascal, Blaise
+Turing, Alan
+Wilson, Sophie
+Lebedev, Sergei
+Knuth, Donald

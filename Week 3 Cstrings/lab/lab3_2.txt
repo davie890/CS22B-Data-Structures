@@ -1,0 +1,7 @@
+Preheat oven to <number> degrees and grease baking sheets.
+In a <adjective> bowl beat eggs, then add sugar, flour, and <spice>.
+<verb> together until mixture is <adjective>.
+Pipe mixture onto baking sheets.
+Bake for <number> minutes or until lightly <color> in color.
+Remove to wire rack and cool <adverb>.
+Enjoy.
